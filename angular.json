@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngx-bootstrap-nested-modal"
+    }
+  },
+  "defaultProject": "ngx-bootstrap-nested-modal",
+  "cli": {
+    "analytics": "c70f16c3-8bdc-4207-a69d-2c6264e42884"
+  }
 }
